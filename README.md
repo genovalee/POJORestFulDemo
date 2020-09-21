@@ -271,6 +271,6 @@ public class T0nj0547 implements Serializable{
     <span style="color:#800080; ">}</span>
 <span style="color:#800080; ">}</span>
 </pre>
-
+## 設定get/post的路徑，參數及Content-Type
 ![1](https://github.com/genovalee/POJORestfulDemo/blob/master/Image%20221.png)
  
